@@ -24,7 +24,7 @@ dependencies:
   remixicon: ^1.4.1
   flutter_bloc: ^8.1.6
   equatable: ^2.0.5
-  flutter_quill: ^11.5.0
+  flutter_quill: ^11.5.1
   google_maps_flutter: ^2.10.0
   geolocator: ^13.0.2
   geocoding: ^3.0.0
@@ -55,6 +55,7 @@ dependencies:
   audioplayers: ^6.1.0
   flutter_inappwebview: ^6.1.5
   upgrader: ^12.5.0
+  flutter_launcher_icons: ^0.14.4
 
 
 dev_dependencies:
@@ -62,6 +63,15 @@ dev_dependencies:
     sdk: flutter
 
   flutter_lints: ^5.0.0
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  remove_alpha_ios: true
+  image_path: "assets/images/app_launcher_logo/launcher_icon.png"
+  min_sdk_android: 21
+  adaptive_icon_background: "#ffffff"
+  adaptive_icon_foreground: "assets/images/app_launcher_logo/launcher_icon.png"
 
 flutter:
 
@@ -76,6 +86,7 @@ flutter:
     - assets/audio/
     - assets/
     - assets/images/
+    - assets/images/app_launcher_logo/
 
   # An image asset can refer to one or more_page resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

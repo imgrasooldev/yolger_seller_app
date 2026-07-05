@@ -41,7 +41,7 @@ class AuthHeader extends StatelessWidget {
               // Content
               Center(
                 child: Image.asset(
-                  ImagesPath.sellerLogoPng,
+                  ImagesPath.appLogoPng,
                   width: 250,
                   height: 250,
                   fit: BoxFit.contain,

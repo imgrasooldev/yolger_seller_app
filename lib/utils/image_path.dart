@@ -5,6 +5,7 @@ class ImagesPath {
   static const String darkLogo = '$pngMainPath/app-logo-dark.png';
   static const String splashBgPng = '$pngMainPath/doodle.png';
   static const String sellerLogoPng = '$pngMainPath/seller_logo.png';
+  static const String appLogoPng = '$pngMainPath/app-logo.png';
 
   // slider images
   static const String introSlider1 = '$pngMainPath/slider-1.png';

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class AppColors {
-  static const Color primaryColor = Color(0xFF006BD5);
+  static const Color primaryColor = Color(0xFFF15B29);
 
   // font color
   static Color lightFontColor = Colors.black;
@@ -49,7 +49,7 @@ class AppColors {
 
   // auth header color
 
-  static const Color authHeaderColor = Color(0xFF005AC1);
+  static const Color authHeaderColor = Color(0xFFF6CABB);
   static const Color zoneLocationMarkerColor = Color(0xFF1C6D2B);
 
   //More Menu Box

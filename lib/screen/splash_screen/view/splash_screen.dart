@@ -162,7 +162,7 @@ class _SplashScreenState extends State<SplashScreen> {
               fit: BoxFit.cover,
               colorFilter: ColorFilter.mode(AppColors.primaryColor.withValues(alpha: 0.75), BlendMode.srcATop),
             ),
-            Center(child: Image.asset(ImagesPath.darkLogo, width: 300, height: 300, fit: BoxFit.contain)),
+            Center(child: Image.asset(ImagesPath.appLogoPng, width: 300, height: 300, fit: BoxFit.contain)),
           ],
         ),
       ),
