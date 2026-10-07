@@ -1,0 +1,186 @@
+{
+  "project_info": {
+    "project_number": "182078486211",
+    "project_id": "shopez-f2501",
+    "storage_bucket": "shopez-f2501.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182078486211:android:738963c82ffe82ff795476",
+        "android_client_info": {
+          "package_name": "com.hyperLocal.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182078486211-qlkfrj65re3efrjgldo8nevmbmmh5bct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvVfrw3cjctK0qYy7nMcCsqMppw8SPeMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182078486211-qlkfrj65re3efrjgldo8nevmbmmh5bct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "182078486211-amrmtm5osi0n6tbj8fvikg118s5f9nna.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shopezy.rider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182078486211:android:b447956a4a95a637795476",
+        "android_client_info": {
+          "package_name": "com.shopezy.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182078486211-6972863p00h3fsdi8ssv5gqe7nk0koo0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shopezy.customer",
+            "certificate_hash": "8b6d91bd345bc4769fd0841cd075aace331efc55"
+          }
+        },
+        {
+          "client_id": "182078486211-jdr51rq79dqcggbsoorbtiqs5brg6pqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shopezy.customer",
+            "certificate_hash": "d2cb35be2b3b0e609b3a656574f58ae0e6acba0e"
+          }
+        },
+        {
+          "client_id": "182078486211-qlkfrj65re3efrjgldo8nevmbmmh5bct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvVfrw3cjctK0qYy7nMcCsqMppw8SPeMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182078486211-qlkfrj65re3efrjgldo8nevmbmmh5bct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "182078486211-amrmtm5osi0n6tbj8fvikg118s5f9nna.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shopezy.rider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182078486211:android:546005d69fb01fc8795476",
+        "android_client_info": {
+          "package_name": "com.shopezy.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182078486211-0l718hd7lugl2i5b20o22f6edl5i6ul7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shopezy.rider",
+            "certificate_hash": "87253f2369e39832b15dccf5b7d6a8b28fc39e11"
+          }
+        },
+        {
+          "client_id": "182078486211-qlkfrj65re3efrjgldo8nevmbmmh5bct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvVfrw3cjctK0qYy7nMcCsqMppw8SPeMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182078486211-qlkfrj65re3efrjgldo8nevmbmmh5bct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "182078486211-amrmtm5osi0n6tbj8fvikg118s5f9nna.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shopezy.rider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182078486211:android:55acccbc838ae31f795476",
+        "android_client_info": {
+          "package_name": "com.shopezy.seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182078486211-r4cho7rpbqvqck8kh757rl8tq48kqrsa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shopezy.seller",
+            "certificate_hash": "a8f792b4fc9d113f8d41bb348643adbe8905d2ee"
+          }
+        },
+        {
+          "client_id": "182078486211-qlkfrj65re3efrjgldo8nevmbmmh5bct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvVfrw3cjctK0qYy7nMcCsqMppw8SPeMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182078486211-qlkfrj65re3efrjgldo8nevmbmmh5bct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "182078486211-amrmtm5osi0n6tbj8fvikg118s5f9nna.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shopezy.rider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
