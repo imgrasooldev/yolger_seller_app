@@ -19,7 +19,7 @@ import flutter_local_notifications
 
      application.registerForRemoteNotifications()
 
-    GMSServices.provideAPIKey("YOUR_IOS_MAP_KEY")
+    GMSServices.provideAPIKey("AIzaSyAuCfo9YCR18BGhMRXvwEa8a2tmyQPiDBA")
     GeneratedPluginRegistrant.register(with: self)
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }

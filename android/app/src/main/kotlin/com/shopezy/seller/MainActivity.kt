@@ -1,4 +1,4 @@
-package com.hyperLocal.seller
+package com.shopezy.seller
 
 import io.flutter.embedding.android.FlutterActivity
 

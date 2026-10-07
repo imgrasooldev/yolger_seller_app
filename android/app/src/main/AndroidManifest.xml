@@ -37,7 +37,7 @@
     </queries>
 
     <application
-        android:label="Yolger Seller"
+        android:label="ShopEzy Seller"
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
         <activity

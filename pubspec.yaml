@@ -56,6 +56,7 @@ dependencies:
   flutter_inappwebview: ^6.1.5
   upgrader: ^12.5.0
   flutter_launcher_icons: ^0.14.4
+  flutter_native_splash: ^2.4.8
 
 
 dev_dependencies:
@@ -72,6 +73,18 @@ flutter_launcher_icons:
   min_sdk_android: 21
   adaptive_icon_background: "#ffffff"
   adaptive_icon_foreground: "assets/images/app_launcher_logo/launcher_icon.png"
+
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: assets/images/app_launcher_logo/launcher_icon.png
+
+
+  android: true
+  ios: true
+
+  android_12:
+    color: "#FFFFFF"
+    image: assets/images/app_launcher_logo/launcher_icon.png
 
 flutter:
 

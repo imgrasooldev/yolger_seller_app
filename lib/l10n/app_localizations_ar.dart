@@ -972,7 +972,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get hsnCode => 'رمز HSN';
 
   @override
-  String get hyperLocal => 'هايبر لوكال';
+  String get hyperLocal => 'ShopEzy Seller';
 
   @override
   String get iWantMyMoney => 'أريد أموالي';
