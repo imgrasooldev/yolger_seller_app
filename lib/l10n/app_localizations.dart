@@ -1873,7 +1873,7 @@ abstract class AppLocalizations {
   /// No description provided for @hyperLocal.
   ///
   /// In en, this message translates to:
-  /// **'HYPER LOCAL'**
+  /// **'ShopEzy Seller'**
   String get hyperLocal;
 
   /// No description provided for @iWantMyMoney.

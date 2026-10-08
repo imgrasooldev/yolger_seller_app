@@ -1,6 +1,30 @@
-
 # FVM Version Cache
 .fvm/
 
 # Signing keys
 *.jks
+
+# Flutter generated files
+.dart_tool/
+build/
+
+# IDE files
+.idea/
+*.iml
+
+# Flutter generated plugin files
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Generated Android build files
+android/.gradle/
+android/build/
+android/app/build/
+
+# Generated iOS files
+ios/Flutter/ephemeral/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+
+# Build/error logs
+*.log
